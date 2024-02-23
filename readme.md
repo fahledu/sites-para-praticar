@@ -7,7 +7,7 @@
 - [Grid Garden](https://cssgridgarden.com/)
 - [Flexbox Froggy](https://flexboxfroggy.com/)
 - [100 Days CSS Challenge](https://100dayscss.com/)
-
+- [Flexbox Defense](http://www.flexboxdefense.com/)
 
 ## __FrontEnd__
 
@@ -15,15 +15,22 @@
 - [Frontend Practice](https://www.frontendpractice.com/projects)
 - [Frontend Mentor](https://www.frontendmentor.io/home)
 - [frontend-challenges](https://github.com/felipefialho/frontend-challenges)
+- [Codewell](https://www.codewell.cc/)
+- [BR Challenges](https://www.brchallenges.com/)
+- [Codier](https://codier.io/)
+- [Mastery Games](https://mastery.games/)
+- [Daily UI Design Challenge](https://www.dailyui.co/)
+- [iCodeThis](https://icodethis.com/app)
 
-## __Não categorizado__
+## __FullStack__
+
+- [devChallenges](https://devchallenges.io/challenges)
+
+## __Programação__
+
 - [Codewars](https://www.codewars.com/)
 - [Coderbyte](https://coderbyte.com/)
 - [Coding Games](https://www.codingame.com/start/)
-- [Codewell](https://www.codewell.cc/)
-- [BR Challenges](https://www.brchallenges.com/)
-- [devChallenges](https://devchallenges.io/challenges)
-- [Codier](https://codier.io/)
 - [Exercism](https://exercism.org/dashboard)
 - [coderwall](https://coderwall.com/trending)
 - [Top coder](https://www.topcoder.com/)
@@ -34,15 +41,10 @@
 - [Techie Delight](https://www.techiedelight.com/)
 - [Rocketseat](https://www.rocketseat.com.br/)
 - [Screeps](https://screeps.com/)
-- [Flexbox Defense](http://www.flexboxdefense.com/)
-- [Mastery Games](https://mastery.games/)
 - [CheckiO](https://checkio.org/)
 - [CodeCombat](https://codecombat.com/)
-- [Daily UI Design Challenge](https://www.dailyui.co/)
-- [iCodeThis](https://icodethis.com/app)
 - [LeetCode](https://leetcode.com/)
 - [app-ideas](https://github.com/florinpop17/app-ideas)
-
 
 ## __SQL__
 
@@ -57,4 +59,3 @@
 - [hackthebox](https://www.hackthebox.com/)
 - [pwn2](https://pwn2.win/pt-BR)
 - [capturetheflag](https://hackersec.com/)
-
