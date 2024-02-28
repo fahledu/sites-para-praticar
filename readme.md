@@ -45,6 +45,7 @@
 - [CodeCombat](https://codecombat.com/)
 - [LeetCode](https://leetcode.com/)
 - [app-ideas](https://github.com/florinpop17/app-ideas)
+- [Codechef](https://www.codechef.com/)
 
 ## __SQL__
 
