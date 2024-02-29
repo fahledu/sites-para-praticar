@@ -64,3 +64,8 @@
 ## __API's para praticar__
 
 - [80 APIs para você usar nos seus projetos e praticar!](https://www.linkedin.com/pulse/80-apis-para-voc%C3%AA-usar-nos-seus-projetos-e-praticar-leticia-coelho/?originalSubdomain=pt)
+
+
+## __Photoshopo ou relativo__ 
+
+- [bezier method](https://bezier.method.ac/)
