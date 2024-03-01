@@ -1,5 +1,7 @@
 # __Sites para praticar__
 
+Lista de sites que encontro ou me recomendam para realizar exercicos.
+
 ## __CSS__
 
 - [CSSBattle](https://cssbattle.dev/)
@@ -39,7 +41,7 @@
 - [Codeforces](https://codeforces.com/)
 - [Project Euler](https://projecteuler.net/)
 - [Techie Delight](https://www.techiedelight.com/)
-- [Rocketseat](https://www.rocketseat.com.br/)
+- ~~[Rocketseat](https://www.rocketseat.com.br/)~~ Não encontrei um lugar para fazer exercicios praticos, só uns quiz sobre algumas linguagens mas não acho que agregue muito valor... 
 - [Screeps](https://screeps.com/)
 - [CheckiO](https://checkio.org/)
 - [CodeCombat](https://codecombat.com/)
