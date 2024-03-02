@@ -34,7 +34,7 @@ Lista de sites que encontro ou me recomendam para realizar exercicos.
 - [Coderbyte](https://coderbyte.com/)
 - [Coding Games](https://www.codingame.com/start/)
 - [Exercism](https://exercism.org/dashboard)
-- [coderwall](https://coderwall.com/trending)
+- ~~[coderwall](https://coderwall.com/trending)~~ Site de aprendizagem colaborativa, não encontrei desafios
 - [Top coder](https://www.topcoder.com/)
 - [HackerEarth](https://www.hackerearth.com/)
 - [Programmr](https://www.programmr.com/)
