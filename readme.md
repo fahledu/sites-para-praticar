@@ -40,10 +40,10 @@ Lista de sites que encontro ou me recomendam para realizar exercicos.
 - [Programmr](https://www.programmr.com/)
 - [Codeforces](https://codeforces.com/)
 - [Project Euler](https://projecteuler.net/)
-- [Techie Delight](https://www.techiedelight.com/)
+- [Techie Delight](https://www.techiedelight.com/) (C++ / Java / Python)
 - ~~[Rocketseat](https://www.rocketseat.com.br/)~~ Não encontrei um lugar para fazer exercicios praticos, só uns quiz sobre algumas linguagens mas não acho que agregue muito valor... 
 - [Screeps](https://screeps.com/)
-- [CheckiO](https://checkio.org/)
+- [CheckiO](https://checkio.org/) (TypeScript / Python)
 - [CodeCombat](https://codecombat.com/)
 - [LeetCode](https://leetcode.com/)
 - [app-ideas](https://github.com/florinpop17/app-ideas)
@@ -71,3 +71,7 @@ Lista de sites que encontro ou me recomendam para realizar exercicos.
 ## __Photoshopo ou relativo__ 
 
 - [bezier method](https://bezier.method.ac/)
+
+## __database__
+
+- [Supabase](https://supabase.com/)
