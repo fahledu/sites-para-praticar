@@ -10,6 +10,7 @@ Lista de sites que encontro ou me recomendam para realizar exercicos.
 - [Flexbox Froggy](https://flexboxfroggy.com/)
 - [100 Days CSS Challenge](https://100dayscss.com/)
 - [Flexbox Defense](http://www.flexboxdefense.com/)
+- [codingfantasy](https://codingfantasy.com/)
 
 ## __FrontEnd__
 
@@ -47,13 +48,17 @@ Lista de sites que encontro ou me recomendam para realizar exercicos.
 - [CodeCombat](https://codecombat.com/)
 - [LeetCode](https://leetcode.com/)
 - [app-ideas](https://github.com/florinpop17/app-ideas)
-- [Codechef](https://www.codechef.com/)
+- [Codechef](https://www.codechef.com/) (Python / C / C++ / Java)
+- [edabit](https://edabit.com/#!)
+- [codingbat](https://codingbat.com/) (Java / Python)
 
 ## __SQL__
 
 - [The SQL Murder Mystery](https://mystery.knightlab.com/)
 - [SQL Island](https://sql-island.informatik.uni-kl.de/)
 - [Learn SQL while solving crimes!](https://sqlpd.com/)
+- [w3schools](https://www.w3schools.com/sql/sql_exercises.asp)
+- [sql-practice](https://www.sql-practice.com/)
 
 ## __Pentest__
 
@@ -62,6 +67,8 @@ Lista de sites que encontro ou me recomendam para realizar exercicos.
 - [hackthebox](https://www.hackthebox.com/)
 - [pwn2](https://pwn2.win/pt-BR)
 - [capturetheflag](https://hackersec.com/)
+- [hackthissite](https://www.hackthissite.org/)
+- [hacker101](https://www.hacker101.com/)
 
 ## __API's para praticar__
 
