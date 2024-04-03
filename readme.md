@@ -2,6 +2,10 @@
 
 Lista de sites que encontro ou me recomendam para realizar exercicos.
 
+## __
+
+- App com desafios: [sololearn](https://www.sololearn.com/pt/)
+
 ## __CSS__
 
 - [CSSBattle](https://cssbattle.dev/)
