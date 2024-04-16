@@ -55,7 +55,8 @@ Lista de sites que encontro ou me recomendam para realizar exercicos.
 - [Codechef](https://www.codechef.com/) (Python / C / C++ / Java)
 - [edabit](https://edabit.com/#!)
 - [codingbat](https://codingbat.com/) (Java / Python)
--[beecrowd](https://judge.beecrowd.com/pt/login)
+- [beecrowd](https://judge.beecrowd.com/pt/login)
+- [codecrafters](https://app.codecrafters.io/)
 
 ## __SQL__
 
